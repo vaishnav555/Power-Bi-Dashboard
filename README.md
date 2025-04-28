@@ -1,6 +1,6 @@
 # Power-Bi-Dashboard Project
 
-# The Blinkit App Indias Last Minute The Groccery Shop.
+# The Blinkit App Indias Last Minute App.
 
 Analysis Grocery Data Identify Risk Patterns Using Power Bi Visualizations.
 

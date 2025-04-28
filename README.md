@@ -1,4 +1,4 @@
-# Power-Bi-Dashboard
+# Power-Bi-Dashboard Project
 
 # The Blinkit App Indias Last Minute The Groccery Shop.
 
